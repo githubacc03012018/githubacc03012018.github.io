@@ -1,0 +1,28 @@
+div{
+  text-align: center;
+  
+}  
+
+.test{
+    border-style: solid;
+    border-color: black;
+   
+}
+
+.bg {
+  background-color: white;
+}
+
+p {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 18px;
+}
+
+h2{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+li{
+  list-style-type: initial;
+}
